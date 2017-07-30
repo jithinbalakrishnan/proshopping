@@ -22,20 +22,22 @@
     text-align: right;
     padding: 3px;
 }
-.navbar-content {
-    background-color: #f18301;
+.nav-top{
     margin-top: 50px;
-
 }
+.nav-top > .row {
+    margin-right: 0 ;
+}
+.navbar-content{
+    background-color: #f18301;
+}
+
 
 .navbar-content > ul >li {
     color: white;
     padding: 20px;
+}
 
-}
-.navbar-content > ul{
-    padding-left: 200px;
-}
 .navbar-cart{
     color:#ecb5b5;
 }
@@ -43,4 +45,5 @@
     background-color: #e03b00;
 
 }
+
 
