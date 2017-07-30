@@ -43,7 +43,9 @@
 }
 .active{
     background-color: #e03b00;
-
 }
-
+.fa-cart-arrow-down{
+    margin-right: 6px;
+    font-size: 17px;
+}
 
